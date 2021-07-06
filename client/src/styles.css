@@ -1,0 +1,13 @@
+body {
+    background:
+    
+    url(https://wallpaperaccess.com/full/1605476.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
